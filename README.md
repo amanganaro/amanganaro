@@ -2,7 +2,7 @@
 
 Repositories for the VEGA project:
 
-| Repository | Description |
+| Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 | ----- | ----- |
 | [VEGA-insilico-core](https://github.com/amanganaro/VEGA-insilico-core) | Core libraries for the VEGA project |
 | [VEGA-alertspng](https://github.com/amanganaro/VEGA-alertspng) | Cached version of depictions for alerts (no code, just PNG files) |   
