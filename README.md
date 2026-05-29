@@ -1,5 +1,7 @@
 ## VEGA project
 
+(Refactoring in progress and repos are not complete, please don't use this code for now)
+
 Repositories for the VEGA project:
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
