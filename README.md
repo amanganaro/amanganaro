@@ -18,3 +18,4 @@ Repositories for the VEGA project:
 | [VEGA-models-properties](https://github.com/amanganaro/VEGA-models-properties) | Collections of QSAR models related to physical-chemical properties |
 | [VEGA-models-other](https://github.com/amanganaro/VEGA-models-other) | Collections of QSAR models related to all other endpoints |
 | [VEGA-models-all](https://github.com/amanganaro/VEGA-models-all) | Wrapper for all available VEGA models |
+| [VEGA-GUI](https://github.com/amanganaro/VEGA-GUI) | VEGA standalone application (GUI) |
