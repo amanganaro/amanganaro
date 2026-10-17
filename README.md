@@ -1,8 +1,8 @@
 ## VEGA project
 
-(Refactoring in progress and repos are not complete, please don't use this code for now)
+VEGA is an open-source application that provides tens of QSAR models to predict tox, ecotox, environ, and phys-chem properties of chemical substances. Binary distribution files for VEGA and its related application are available on the [VEGA HUB website](https://www.vegahub.eu/).
 
-Repositories for the VEGA project:
+Repositories for the VEGA application:
 
 | Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 | ----- | ----- |
