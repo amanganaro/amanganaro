@@ -18,5 +18,6 @@ Repositories for the VEGA application:
 | [VEGA-models-properties](https://github.com/amanganaro/VEGA-models-properties) | Collections of QSAR models related to physical-chemical properties |
 | [VEGA-models-other](https://github.com/amanganaro/VEGA-models-other) | Collections of QSAR models related to all other endpoints |
 | [VEGA-models-all](https://github.com/amanganaro/VEGA-models-all) | Wrapper for all available VEGA models |
-| [VEGA-resources-python](https://github.com/amanganaro/VEGA-resources-python) | Resources (environments) for the Python models |
 | [VEGA-GUI](https://github.com/amanganaro/VEGA-GUI) | VEGA standalone application (GUI) |
+
+An additional repository (VEGA-resources-python), with resources (environments) for the Python models, is not available here due to Github LFS limitations. We can share it on demand, the artifact is anyway available in the Maven repository reported in the POM files of the VEGA-GUI project.
