@@ -1,6 +1,6 @@
 ## VEGA project
 
-VEGA is an open-source application that provides tens of QSAR models to predict tox, ecotox, environ, and phys-chem properties of chemical substances. Binary distribution files for VEGA and its related application are available on the [VEGA HUB website](https://www.vegahub.eu/).
+VEGA is an open-source application that provides tens of QSAR models to predict tox, ecotox, environ, and phys-chem properties of chemical substances. Binary distribution files for VEGA (and for other applications based on its models) are available on the [VEGA HUB website](https://www.vegahub.eu/).
 
 Repositories for the VEGA application:
 
@@ -8,7 +8,7 @@ Repositories for the VEGA application:
 | ----- | ----- |
 | [VEGA-insilico-core](https://github.com/amanganaro/VEGA-insilico-core) | Core libraries for the VEGA project |
 | [VEGA-alertspng](https://github.com/amanganaro/VEGA-alertspng) | Cached version of depictions for alerts (no code, just PNG files) |   
-| [VEGA-padeladapter](https://github.com/amanganaro/VEGA-padeladapter) | Padel adapter libraries for the VEGA project (provides an interface to a shaded library with Padel and an older version of the CDK) |
+| [VEGA-padeladapter](https://github.com/amanganaro/VEGA-padeladapter) | Padel adapter libraries for the VEGA project (provides an interface to use a legacy Padel with an older version of the CDK) |
 | [VEGA-coral](https://github.com/amanganaro/VEGA-coral) | Coral libraries for the VEGA project, implementing a Java porting of the Coral application developed by Andrey and Alla Toropov |
 | [VEGA-NRMEA](https://github.com/amanganaro/VEGA-NRMEA) | NRMEA libraries for the VEGA project, implementing the core functionalities to run NRMEA models (developed by Prof. Wei Shi, University of Nanjing) |
 | [VEGA-python-models](https://github.com/amanganaro/VEGA-python-models) | Source for all Python models used in VEGA |
