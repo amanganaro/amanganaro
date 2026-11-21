@@ -25,3 +25,14 @@ Repositories for all the other components used by the VEGA application:
 | [VEGA-models-all](https://github.com/amanganaro/VEGA-models-all) | Wrapper for all available VEGA models |
 
 An additional repository (VEGA-resources-python), with resources (environments) for the Python models, is not available here due to Github LFS limitations. We can share it on demand, the artifact is anyway available in the Maven repository reported in the POM files of the VEGA-GUI project.
+
+## VEGA-related applications
+
+Other applications that are part of the VEGA ecosystem and/or use part of the VEGA framework (its core libraries, some of the QSAR models):
+
+| Repository&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
+| ----- | ----- |
+| [Tox-Read](https://github.com/amanganaro/Toxread) | under refactoring |
+| [Janus](https://github.com/amanganaro/Janus) | under refactoring |
+
+
